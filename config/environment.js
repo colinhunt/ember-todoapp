@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'todo-app-with-pods',
+    podModulePrefix: 'todo-app-with-pods/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
