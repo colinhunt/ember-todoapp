@@ -1,0 +1,7 @@
+.checkbox-list {
+  list-style-type: none;
+}
+
+.checkbox-list .checked {
+  text-decoration: line-through;
+}

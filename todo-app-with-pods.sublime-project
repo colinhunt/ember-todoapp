@@ -2,7 +2,13 @@
 	"folders":
 	[
 		{
-			"path": "/Users/colinhunt/projects/tutorials/ember/todo-app-with-pods"
+			"path": "/Users/colinhunt/projects/tutorials/ember/colin-ember-todos",
+            "folder_exclude_patterns": [
+                "tmp",
+                "node_modules",
+                "bower_components",
+                "dist"
+            ]						
 		}
 	]
 }
