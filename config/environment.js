@@ -2,8 +2,8 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'todo-app-with-pods',
-    podModulePrefix: 'todo-app-with-pods/pods',
+    modulePrefix: 'colin-ember-todos',
+    podModulePrefix: 'colin-ember-todos/pods',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
     firebase: 'https://colin-ember-todos.firebaseio.com/',

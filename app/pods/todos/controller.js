@@ -3,7 +3,11 @@ import Ember from 'ember';
 export default Ember.Controller.extend({
 	actions: {
 		addTodo(text) {
-			this.store.createRecord('todo', {text: text});
+			let todo = this.store.createRecord('todo', {
+				text: text,
+				checked: false
+			});
+			todo.save();
 		}
 	}
 });

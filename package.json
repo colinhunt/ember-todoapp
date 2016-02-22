@@ -1,7 +1,7 @@
 {
-  "name": "todo-app-with-pods",
+  "name": "colin-ember-todos",
   "version": "0.0.0",
-  "description": "Small description for todo-app-with-pods goes here",
+  "description": "Small description for colin-ember-todos goes here",
   "private": true,
   "directories": {
     "doc": "doc",

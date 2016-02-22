@@ -196,7 +196,7 @@
 			}
 		},
 		{
-			"file": "dist/assets/todo-app-with-pods-d41d8cd98f00b204e9800998ecf8427e.css",
+			"file": "dist/assets/colin-ember-todos-d41d8cd98f00b204e9800998ecf8427e.css",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -204,7 +204,7 @@
 			}
 		},
 		{
-			"file": "todo-app-with-pods.sublime-project",
+			"file": "colin-ember-todos.sublime-project",
 			"settings":
 			{
 				"buffer_size": 256,
@@ -276,8 +276,8 @@
 	},
 	"file_history":
 	[
-		"/Users/colinhunt/projects/tutorials/ember/todo-app-with-pods/app/pods/todos/controller.js",
-		"/Users/colinhunt/projects/tutorials/ember/todo-app-with-pods/app/pods/todo/model.js",
+		"/Users/colinhunt/projects/tutorials/ember/colin-ember-todos/app/pods/todos/controller.js",
+		"/Users/colinhunt/projects/tutorials/ember/colin-ember-todos/app/pods/todo/model.js",
 		"/Users/colinhunt/projects/tutorials/ember/todo-app/app/templates/components/todo-data.hbs",
 		"/Users/colinhunt/projects/tutorials/ember/todo-app/app/components/todo-data.js",
 		"/Users/colinhunt/projects/tutorials/ember/todo-app/app/templates/todos-from-component.hbs",
@@ -861,7 +861,7 @@
 				},
 				{
 					"buffer": 10,
-					"file": "dist/assets/todo-app-with-pods-d41d8cd98f00b204e9800998ecf8427e.css",
+					"file": "dist/assets/colin-ember-todos-d41d8cd98f00b204e9800998ecf8427e.css",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -887,7 +887,7 @@
 				},
 				{
 					"buffer": 11,
-					"file": "todo-app-with-pods.sublime-project",
+					"file": "colin-ember-todos.sublime-project",
 					"settings":
 					{
 						"buffer_size": 256,
