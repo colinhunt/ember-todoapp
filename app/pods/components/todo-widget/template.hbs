@@ -2,9 +2,6 @@
 
 <ul class="checkbox-list">
 {{#each todos as |todo|}}
-  <li>
-  	<label class={{if todo.checked "checked"}}>
-  	{{input type="checkbox" checked=todo.checked action=checked}}{{ todo.text }}</label>
-  </li>
+	{{todo-single todo=todo}}
 {{/each}}
 </ul>

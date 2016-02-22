@@ -1,0 +1,12 @@
+<li>
+	{{#unless editing}}
+		<label class={{if todo.checked "checked"}}>
+		{{input type="checkbox" checked=todo.checked}}{{ todo.text }}</label>
+		{{#if hovering}}
+			<button {{action "edit"}}>Edit</button>
+			<button {{action "delete"}}>Delete</button>
+		{{/if}}
+	{{else}}
+		{{input value=todo.text}} <button {{action "submit"}}>OK</button>
+	{{/unless}}
+</li>
